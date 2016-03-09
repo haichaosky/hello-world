@@ -3,7 +3,7 @@
 
 static int hello_init(void)
 {
-	printk(KERN_INFO, "helloa world enter.\n");
+	printk(KERN_INFO, "helloaa world enter.\n");
 	return 0;
 }
 
